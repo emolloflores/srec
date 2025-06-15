@@ -149,14 +149,11 @@ A continuación se listan los principales endpoints disponibles. Para las rutas 
 </p>
 
 ## Explicacion Gilmer Huanca
-<video src="videos/gilmerHuanca.mp4" controls width="600">
-  Tu navegador no soporta el elemento de video.
-</video>
+🎥 [Ver Explicacion en video](videos/gilmerHuanca.mp4)
 
 ## Explicacion Edgar Mollo
-<video src="videos/edgarMollo.mp4" controls width="600">
-  Tu navegador no soporta el elemento de video.
-</video>
+🎥 [Ver Explicacion en video](videos/edgarMollo.mp4)
+
 
 
 ---
