@@ -148,11 +148,11 @@ A continuación se listan los principales endpoints disponibles. Para las rutas 
   </a>
 </p>
 
-## Explicacion Gilmer Huanca
-🎥 [Ver Explicacion en video](videos/gilmerHuanca.mp4)
 
-## Explicacion Edgar Mollo
-🎥 [Ver Explicacion en video](videos/edgarMollo.mp4)
+
+
+🌐 [Ver demostración con video en GitHub Pages](https://emolloflores.github.io/srec/)
+
 
 
 
